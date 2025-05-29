@@ -1,0 +1,8 @@
+from Post import Post
+
+all_posts_archive = []
+
+# your code here
+
+username = name("Woosh456")
+print(name)
